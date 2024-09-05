@@ -160,6 +160,7 @@ class: huge center inverse subsection
 ---
 # Looking Ahead
 
+* **NO CLASS MONDAY - MOVIE in EVENING
 * Class will consider ES / D&D / GR&C in turn
   * Creation / Wonder
   * Fall / Heartbreak

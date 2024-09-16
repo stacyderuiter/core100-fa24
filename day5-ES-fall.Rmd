@@ -1,0 +1,74 @@
+---
+title: "CORE 100 (4): ES Fall/Heartbreak"
+author: "Dr. Stacy DeRuiter"
+date: "Sept 16, 2024"
+output:
+  xaringan::moon_reader:
+    css: ['default', 'https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css', 'slides.css']
+    lib_dir: libs
+    nature:
+      titleSlideClass: ['inverse','middle','left',my-title-slide]
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: '16:9'
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Authors
+
+```{r, out.width = '32%', echo = FALSE}
+knitr::include_graphics('https://www.ivpress.com/Media/Default/_Profiles/79e61c74/eea737d1/1135528.jpg?v=637898579683728843')
+knitr::include_graphics('https://images.squarespace-cdn.com/content/v1/5998d8226f4ca3396027aae2/1593504991793-9RVCUCIHSWV5PRE4P3OG/image-asset.png?format=2500w')
+knitr::include_graphics('https://www.theology.ox.ac.uk/sites/default/files/theology/images/person/unknown_2.jpeg')
+```
+---
+
+## Reformed Theology: KINGDOM
+.small[
+*Matthew 6:10, Mark 1:14-15, Micah 6:8* 
+
+* “The kingdom of God is the rule of God over all things. God is king. He is sovereign. He reigns...The kingdom is both a present and a future reality. It is “already now” and “not yet.” Jesus said the kingdom is at hand; he also prayed for the kingdom to come.” 
+* “Closely related to an emphasis upon the kingdom is a commitment to seek justice in society...Christians construe God’s call to love as applying to the personal relationships Christians have with people within the communities in which they live; whereas justice is something that Christians can seek for all people everywhere.” 
+]
+.smaller[
+Quotes from "What it means to be Reformed" booklet
+]
+---
+
+# According to Wright,
+
+- What is "Evolutionary Optimism / The Myth of Progress"? (pp. 81-87)
+- What does Wright mean by "Souls in Transit" (Platonic dualism / Gnosticism)? (pp. 88-91)
+- Wright thinks *both* those ideas are **wrong**, so what does he think is *right*? He doesn't say much yet, but what can we say for now?
+
+---
+class: huge center inverse subsection
+<br>
+<br>
+## Wright claims that Christian hope of the (physical, material) redemption and renewal of people and all creation strongly informs how we treat one another, and the earth. Matter *matters* and what exists now will be transformed, not destroyed or replaced.
+
+---
+# With your Partner...
+
+- Choose (at least) 1 Wright quote, plus
+- Choose (at least) 1 other-author quote
+- Together, how do they provide insight into how we can understand - or respond to - fallen-ness in the area of Environmental Sustainability?
+
+.small[
+*You will plan a (very short) presentation of your idea. Classmates will listen, then ask at least two questions.*
+]
+---
+## Question ideas...
+
+.small[
+1. I didn’t quite understand what you meant by . . . - can you explain more or give an example? Or, Can you put that another way?
+2. Oh, I didn’t notice that idea when I did the reading! Can you find a passage in the chapter that illustrates that point?
+3. Wait, what page is that quote on? I’m trying to find it. . .
+6. Did anyone else find a different example of a similar point?
+7. Is there a connection between [current idea] and [an idea discussed earlier]?
+8. What bothers (or confuses) you most about . . . ?
+9. What are some consequences of Wright’s idea that . . . ?
+]

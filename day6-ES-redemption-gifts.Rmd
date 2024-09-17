@@ -1,0 +1,96 @@
+---
+title: "CORE 100 (4): ES: Redemption"
+author: "Dr. Stacy DeRuiter"
+date: "Sept 17, 2024"
+output:
+  xaringan::moon_reader:
+    css: ['default', 'https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css', 'slides.css']
+    lib_dir: libs
+    nature:
+      titleSlideClass: ['inverse','middle','left',my-title-slide]
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: '16:9'
+---
+class: bigger
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+# Scripture of Day: 
+# [John 15:1-8 ](https://www.biblegateway.com/passage/?search=John%2015%3A1-8&version=NIV)
+
+---
+# Heidelberg Catechism 
+# [Q 63-64](https://www.crcna.org/welcome/beliefs/confessions/heidelberg-catechism#toc-part-iii-gratitude)
+
+...It is impossible
+<br><br>
+for those grafted into Christ through true faith
+<br><br>
+not to produce fruits of gratitude.
+
+---
+# Robin Wall Kimmerer
+## Writer, botanist
+
+```{r, echo = FALSE, out.width='55%', fig.align='center'}
+knitr::include_graphics('https://i.guim.co.uk/img/media/4cbb396a030edbcfd2c9ba9236000fee2d696c8b/0_386_1744_1046/master/1744.jpg?width=620&quality=45&dpr=2&s=none')
+```
+
+.smaller[Image: <https://www.theguardian.com/books/2020/may/23/robin-wall-kimmerer-people-cant-understand-the-world-as-a-gift-unless-someone-shows-them-how>]
+
+---
+# Prof Dave Warners
+## Biologist
+
+```{r, echo = FALSE, out.width='65%', fig.align='center'}
+knitr::include_graphics('https://calvin.edu/sites/default/files/styles/wide_focal_point_1090/public/images/DaveWarnersGailHeffnerPlasterCreekStewardsBook.jpg?h=e7f7be8c&itok=_sb0R2dA')
+```
+
+.smaller[Image: <https://calvin.edu/directory/people/dave-warners>]
+
+---
+# Prof Jamie Skillen
+## GEO / Environmental Scientist
+
+```{r, echo = FALSE, out.width='35%', fig.align='center'}
+knitr::include_graphics('https://calvin.edu/sites/default/files/styles/card_person/public/2024-08/Picture1_cropped.jpg?h=d5c38a65&itok=xlya-YBs')
+```
+
+.smaller[Image: <https://calvin.edu/people/james-skillen>]
+
+---
+# Gratitude for Gifts
+## Front: One Word
+## Back: Your Name
+
+---
+# Unspoken Thanks
+
+What is someone or something you have experienced as a gift so far this semester? Who could you thank?
+
+(Write it down...)
+
+---
+# Themes in Readings
+## Find, define, support:
+
+.pull-left[
+- Reciprocity
+- Restraint
+]
+.pull-rights[
+- Relationship-building
+- Remembrance (of giver/creator)
+]
+
+---
+
+## Compare and contrast how Warners and Skillen envision that Christians can participate in the renewal of creation. 
+
+- What are their vision(s) for Christian environmental stewardship? 
+- How do the two authors define and develop these ideas (supporting with quotes)? 
+- May also draw ideas from Kimmerer, knowing Christian perspective is an add-on

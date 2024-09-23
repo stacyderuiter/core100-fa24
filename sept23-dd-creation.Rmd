@@ -1,0 +1,108 @@
+---
+title: "CORE 100: D&D, Creation/Wonder"
+author: "Dr. Stacy DeRuiter"
+date: "Sept 23, 2024"
+output:
+  xaringan::moon_reader:
+    css: ['default', 'https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css', 'slides.css']
+    lib_dir: libs
+    nature:
+      titleSlideClass: ['inverse','middle','left',my-title-slide]
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: '16:9'
+---
+class: bigger
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+class: huge center inverse subsection
+
+# But let justice roll down like waters, and righteousness like an ever-flowing stream.
+   
+.small[[Amos Ch. 5](https://www.biblegateway.com/passage/?search=Amos%205&version=ESV)]
+---
+
+## Cole Arthur Riley (contemporary)
+## Writer, poet
+
+```{r, echo = FALSE, out.width='35%', fig.align='center'}
+knitr::include_graphics('https://images.squarespace-cdn.com/content/v1/5ab3c7a8f7939240323f6826/1603819057130-TO00M052LXJ1JDD6WLIW/2020-10-27+Cole+Arthur+Riley+IG+Feed.png?format=2500w')
+```
+
+.smaller[Image: <https://morganharpernichols.com/blog/hold-on-to-what-is-beautiful-feat-cole-arthur-riley>]
+
+
+---
+
+<iframe width="1120" height="630" src="https://www.youtube.com/embed/eNlbCGuQpIk?si=8JzHmGbdYZ-3jnV3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+---
+## Jemar Tisby (contemporary)
+## Historian
+
+```{r, echo = FALSE, out.width='40%', fig.align='center'}
+knitr::include_graphics('https://www.whitworth.edu/cms/media/whitworth/images/administration/weyerhaeuser-center-/jemar-tisby.jpg')
+```
+
+.smaller[Image: <https://www.whitworth.edu>]
+
+---
+
+<iframe width="1120" height="630" src="https://www.youtube.com/embed/FDGOUMZNg5Y?si=_k5ZciXEJWkcRbbQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+---
+
+<iframe width="1120" height="630" src="https://www.youtube.com/embed/dQY_SZJjKDE?si=dmtHdAJlvUNVqpZI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+---
+
+# In the image
+
+- What does Riley's essay have to say about what it means for people to be made in God's image?
+  - Try to identify three (or more) quotations that capture her perspective
+  
+---
+
+# Historian + Poet
+
+.small[
+- Tisby is a historian, Riley a poet and writer. How do their "disciplinary perspectives" (the habits of thinking, style of writing, and way of communicating that come with their specialties) shape the way they present their ideas, and the way you receive them?
+  - Try to find two quotes from each author as evidence for your case
+  - Bonus points if there are points of *disagreement* or difference of opinion within your group about your answers!
+]
+  
+---
+# Color of Compromise
+## (Tisby excerpt)
+
+.small[
+- Tisby clearly argues that "the church has not always and uniformly been complicit in racism," but also that for American Christians, "honestly recognizing their failures and inconsistencies, especially when it comes to racism, is an issue" (pp. 125, 126).
+  - What does he mean when he says the church has often been "complicit" in racism?
+  - Put together a timeline or an outline of the evidence and examples Tisby presents to make his case about this complicity and refusal to see [our/their] own mistakes.
+]
+
+---
+
+# Surprised by Hope
+
+.small[
+- We've now recently read 4 (!) chapters: 6-7 *and* 9-10
+- Work with your team to make a list of up to ~10 bullet points with Wright's big, key points from all four chapters.
+  - **Avoid direct quotes** this time - put the ideas in your own words...
+  - *But* **do cite page number(s)** for each idea
+  ]
+---
+# Together
+### What connections can you find among Riley, Tisby, Wright?
+### (From your Reading Notes)
+
+.smaller[
+A. Why do you think that Tisby titled his book (from which we read this chapter) The Color of Compromise? Where does the idea of "compromise" come up? Support your ideas with quotations or specific examples from the reading. Does Riley and/or Wright also think about the idea of "compromise," in a similar or complementary way?
+
+B. What do Riley and Tisby have to say about what it means to be created "in the Image of God," particularly in relation to the experience of being black in the USA? Use their words and examples to help explain.
+
+C. Three ideas Wright explores in Chapter 9-10 include: that the coming judgment is a cause for joy; that Christians work to "build for the kingdom" before Christ's second coming; and the idea of resurrection of the body. Choose one of these and explain Wright's point of view, supporting with quotes and citations as needed. Then, make a connection between your chosen idea from Wright and one of today's other readings.
+
+D. Draw on ideas from Wright and one other of today's authors to make a case for why Christians ought to care about Diversity & Difference - specifically, why Christians might seek black-white racial reconciliation in the USA.
+]

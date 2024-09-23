@@ -1,0 +1,25 @@
+---
+title: "Wright Ch. 6-7 summary"
+format: typst
+---
+
+
+# Very Abbreviated Outline for N.T. Wright's *Surprised by Hope*
+*All quotations and citations are from Wright's book.*
+
+## Chapter 6: What the Whole World's Waiting for
+
+>>The whole world is waiting, on tiptoe with expectation, for the moment when that resurrection life and power sweeps through it, filling it with the glory of God as the waters cover the sea.  - Wright, p. 108.
+
+- Based on the New Testament (Paul's letters & Revelation), Wright summarizes the story of "Christian hope" (p. 93) as one of Creation - Evil/Fall - Redemption/Hope.
+  - **Creation** (both all creation and humans) are *good*, and humans are meant to reflect God: back to him, in Worship; and to the rest of creation, in our care for all creation (p. 94).
+  - The root of **evil** is humans' worship of things other than God - a twisting or distortion of the way we were meant to be. But the material nature and transience of the world is not evil (pp. 94-95). Instead the current cycles of seasons, growth and decay, point ahead toward the eventual redemption and transformation we hope for for ourselves and the world, from "world *as it is* to the world *as it is meant one day to be*" (p. 95).
+  - **Redemption** *doesn't* mean starting over with a new, perfect creation, or making this one just a bit better, or rescuing our immortal spirits from the evil material world...what it *does* mean is a remaking and transformation of *this* creation, making all things right, for humans but also for all creatures and all the cosmos (pp. 95-103). Christ's resurrection is the key and the root of this transformation (pp. 95-103), and when it is complete people and the creation will still be embodied, material, but in some changed and transformed way (p. 101) that we don't fully understand (p. 107).  The "new world" means not the destruction of this one, but its "radical healing." (p. 122, ok - this one ref. is from ch 7...)
+
+## Chapter 7: Heaven and Earth
+
+- Heaven is **not**: a spirit-only, non-physical realm where God is and we may one day go (p. 109-110, p. 115); nor is it a physical place "away from our world" in the same physical realm (universe, "continuum of space or matter") (p. 111, p. 115); nor is the-place-where-Jesus-is the Christian church on earth (can't be, because that church has flaws) (pp. 112-113).
+- **Heaven is** God's space and the place where the ascended Christ is; in it Jesus has some kind of embodied physical reality that is somehow greater than and beyond what we experience (p. 114), and maybe we can think of heaven as occupying a somehow different *kind* of space, matter, and time (p. 115). Given this heaven and earth are not necessarily "far apart," but rather "interlock and intersect" now and will one day be fully "married together forever" (p. 116-117). 
+- Later in the book Wright returns to this kind of definition of heaven, reminding us that heaven can mean "being in God's presence" and "the place where *God's purposes for the future are stored up*" (p. 151, Ch. 10).
+- It's dangerous to focus so hard on Christ's second coming (and the idea that we are now in the "end times") that we fail to care about people and the planet here and now (pp. 118-120). But it's also dangerous to avoid thinking at all about Christ's "com[ing] again in glory to judge the living and the dead" out of fear about judgment, or mistrust of *people* who like to accuse and punish (and judge) (pp. 120-122). Wright will tell us how *he* thinks about "judgment day" in a later chapter.
+

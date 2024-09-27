@@ -1,0 +1,70 @@
+---
+title: "CORE 100: Diversity & Difference / Redemption"
+author: "Dr. Stacy DeRuiter"
+date: "Sept 27, 2024"
+output:
+  xaringan::moon_reader:
+    self_contained: true
+    css: ['default', 'https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css', 'slides.css']
+    lib_dir: libs
+    nature:
+      titleSlideClass: ['inverse','middle','left',my-title-slide]
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: '16:9'
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+class: huge center inverse subsection
+<br>
+<br>
+# Scripture of Day: 
+
+# Revelations 21-22. 
+
+### Reader pp. 253-256.
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7FzaAl_ISik?si=zSM45vMKmnd5wsOi&amp;start=935" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+<iframe width="1120" height="630" src="https://www.youtube.com/embed/2f2k6iDFCL4?si=9eTDDMFJuDmAS_MT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+.smaller[more background: [From the Heart study guide](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.crcna.org/sites/default/files/FromtheHeart_studyguide.pdf) and [context of the Belhar Confession by J. Rogers](https://www.presbyterianmission.org/resource/belhar-rogers/) ]
+
+---
+class: huge center inverse subsection
+<br>
+<br>
+## [From the Heart of God - Session 1 by the Christian Reformed Church](https://vimeo.com/66648767 )
+---
+# Belhar Confession
+
+## 1.  Unity
+## 2. Reconciliation
+## 3. Justice
+## 4. A *Confession*
+## 5. Formed in South Africa
+
+---
+# 1. Unity (U)
+# 2. Reconciliation (R)
+# 3. Justice (J)
+## 4. A *Confession* (C)
+## 5. South Africa (ZA)
+##  6. ?
+
+---
+
+<iframe src="https://player.vimeo.com/video/97751502?h=73ec6d5c14" width="960" height="540" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen data-external="1"></iframe>
+
+.small[
+<p><a href="https://vimeo.com/97751502">The Confession of Belhar and the Presbyterian Church (U.S.A.)</a> from <a href="https://vimeo.com/pcusaoga">Presbyterian Church (U.S.A.) OGA</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+]
+

@@ -1,0 +1,99 @@
+---
+title: "CORE 100: Global Regions & Cultures / Fall, Heartbreak"
+author: "Dr. Stacy DeRuiter"
+date: "Oct 4, 2024"
+output:
+  xaringan::moon_reader:
+    self_contained: true
+    css: ['default', 'https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css', 'slides.css']
+    lib_dir: libs
+    nature:
+      titleSlideClass: ['inverse','middle','left',my-title-slide]
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: '16:9'
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# David Smith
+## Contemporary - Education, World Languages
+
+```{r, echo = FALSE, out.width = '30%', fig.align='center'}
+knitr::include_graphics('https://calvin.edu/sites/default/files/styles/card_person/public/images/people/https/calvin.edu/dA/49a8d9fe-b4a6-46f8-bdac-cee86e18512f/binaryimage/Smith%20%281%29.jpg?itok=7y7R3ORK')
+```
+
+### Professor,Director, Kuyers Institute for Christian Teaching and Learning Coordinator, De Vries Institute for Global Faculty Development
+
+---
+## Start of Prayer?
+
+.small[
+>> So when the woman saw that the tree was good for food, and that it was a delight to the eyes, and that the tree was to be desired to make one wise, she took of its fruit and ate; and she also gave some to her husband, and he at. Then the eyes of both were opened, and they knew that they were naked; and they sewed fig leaves together and made themselves aprons. - Genesis 3:6-7
+
+>> And they heard the sound of the Lord God...The Lord God called to the man and said to him, "Where are you?" - Genesis 3:8-9
+
+]
+
+---
+## Reformed doctrines: Grace
+### Ephesians 2:8-10; Romans 8:29-30, 35-39; John 6:44
+
+.small[
+
+>> Grace is the unmerited favor of God toward those who do not deserve it. Grace is the unconditional and freely given love of God to people who can do nothing to earn it but can only accept it as a gift.
+
+
+>> Grace is the astounding truth that nothing we do can make God love us more or less…. when Reformed folks have talked about grace, they have stressed how much salvation is a gift of God, not a human achievement.
+
+]
+
+.smaller[Quotes from the CRCNA booklet, "What it means to be Reformed: An identity statement" (available on Moodle)]
+
+---
+[A deeper look at cultures]('https://stacyderuiter.github.io/core100-fa24/Inclusive Pedagogies Core 100 and beyond.pdf')
+---
+# GR&C Concepts
+
+.small[
+- Relinquishing the Center
+  - What is "sharing"?
+  - ego- and ethnocentrism 
+- Danger of partial knowledge
+- Products, practices  --> perspectives
+- Culture as incarnated meaning
+  - lived experience vs. imagined universality 
+  - humans necessarily instantiated in place/context 
+]
+
+---
+
+## Questions
+
+
+## 1. Smith's chapter warns about the pitfalls of partial knowledge (particularly of those from other cultures). Can you think of an example -- related somehow to culture, whether international or a sub- or micro-culture within your own community -- of when you thought you understood something only to find out later that you misunderstood? How did you come to a deeper knowledge? What did it take to bring you there?
+
+
+---
+
+## Questions
+
+
+#### 2. On page 164, Smith claims, "These four factors working together - fear, power (and lack of power), partial knowledge, and limited spiritual horizons - lead to an unsettling result: Abraham achieves the opposite of that for which he was called." He is not, Smith says, able to "be a blessing" (p. 164). Choose one of Smith's four factors and explain what he means by it, and how it contributes to Abraham's failure to be a blessing.
+#### 3. On page 164, Smith claims, "These four factors working together - fear, power (and lack of power), partial knowledge, and limited spiritual horizons - lead to an unsettling result: Abraham achieves the opposite of that for which he was called." He is not, Smith says, able to "be a blessing" (p. 164). Can you see one or more of those same four factors at play in the story from Genesis 3? Or, can you see echoes of the story of the fall from Genesis 3 in Smith's four factors?
+#### 4. How does Smith integrate his Christian perspective into his writing in a way that is distinct from a previous author of your choice (suggestions: Wright, Tisby, Riley)? Use relevant citations from both authors to support your argument.
+
+---
+
+# Your additions
+
+.small[
+- What would Smith say is the best way to fight the four factors? Do you agree or have experiences that resonate (or don't)?
+- Can you relate today's reading to Adichie's talk?
+- What are strategies we can use to expand our partial knowledge, or at least be aware of it? What would our GR&C authors say?
+- How can we deal with power differentials between groups and cultures?
+- Why do we still struggle so with stereotyping, and is it getting worse, or better? (What would Wright say?) Does our easy access to travel and communication make it better, or worse?
+]

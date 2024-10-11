@@ -1,0 +1,97 @@
+---
+title: "CORE 100: Vocation & Synthesis, Day 1"
+author: "Dr. Stacy DeRuiter"
+date: "Oct. 10, 2024"
+output:
+  xaringan::moon_reader:
+    self_contained: true
+    css: ['default', 'https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css', 'slides.css']
+    lib_dir: libs
+    nature:
+      titleSlideClass: ['inverse','middle','left',my-title-slide]
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: '16:9'
+---
+class: bigger
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Prayers
+
+.small[
+>> to abet creation and to witness it, to notice each thing so each thing gets noticed. (-A. Dillard)
+
+>> prays with... eyes open... an act of noticing, of reveling, of cultivating the attention that leads to devotion. (-E. Peterson, quoted by T. Harrison Warren)
+
+]
+
+---
+class: huge center inverse subsection
+<br>
+# Above all else, guard your heart, for everything you do flows from it. 
+#(Proverbs 4:23)
+
+---
+# Philippians 1:9-11
+And this is my prayer: That your love may abound more and more in knowledge and depth of insight, so that you may be able to discern what is best and may be pure and blameless for the day of Christ, filled with the fruit of righteousness that comes through Jesus Christ - to the Glory and Praise of God. 
+
+---
+# Authors
+### Debra Rienstra, Nicholas Wolterstorff, Neal Plantinga
+
+
+```{r, echo = FALSE, out.width='32%', fig.show='hold'}
+knitr::include_graphics('https://public-platform.s3.amazonaws.com/wp-content/uploads/sites/30/2015/12/02171138/IMG_0780-e1476146963326.jpg')
+knitr::include_graphics('https://www.independent.org/images/bios_retina/w/wolterstorff_nicholas_188x244.jpg')
+knitr::include_graphics('https://worship.calvin.edu/contentAsset/image/c254ac2e-9b91-4369-8504-45e5c6c80243/fileAsset/filter/Resize/resize_w/400')
+```
+
+.smaller[Photos from: <https://www.independent.org>, <https://worship.calvin.edu/about/staff-directory/cornelius-plantinga-jr/> <https://debrarienstra.com/>]
+
+---
+
+# [You need two eyes.](https://calvin-prod.dotcms.cloud/dotAsset/4c400d13-9b9d-4c91-9289-b0591c3bb17a.pdf)
+
+---
+
+## Write-Arounds
+
+1. Write down a quote from today that you found compelling for some reason. Copy enough so someone else can recognize/remember it, with author and page number (if any).
+2. Start writing notes about why you chose it. Informality and bullet points are fine, but write so another student could understand
+
+(and then...)
+
+---
+
+# Let's Talk
+
+- Group of 2-3
+- Take only your pages (and maybe phone)
+- Discuss your quotes
+- Extra credit: group selfie with fall beauty and/or special campus spot (sld33@calvin.edu)
+
+# Come BACK after!
+
+---
+# Final Dialog (next Wed.)
+## Preferred time for your group?
+
+.pull-left[
+- **10:30 - 10:50** 
+- 10:50 - 11:10 
+- 11:10 - 11:30
+- 11:30 - 11:50 
+- 11:50 - 12:10
+]
+
+.small[
+.pull-right[
+- Will, Brooke, Ben, Annelise, Tanner
+- Alexis, Josh, Valeria, Lilroy
+- Olivia, Emma, Jimmy, Ronald
+- Kaylynn, Andy, Nicholas, Lily, Nathan
+- Ava, Leah, Dean, Jaden, Luke
+]]

@@ -57,12 +57,12 @@ knitr::include_graphics('https://worship.calvin.edu/contentAsset/image/c254ac2e-
 
 ---
 
-## Write-Arounds
+# Your Quotes
 
-1. Write down a quote from today that you found compelling for some reason. Copy enough so someone else can recognize/remember it, with author and page number (if any).
-2. Start writing notes about why you chose it. Informality and bullet points are fine, but write so another student could understand
+1. You have a quote. Want it? Keep it...Else, swap.
+2. Start writing notes about why you chose it. Informality and bullet points are fine.
 
-(and then...)
+## How can I serve God in my education? Work? Hobbies? Life?
 
 ---
 

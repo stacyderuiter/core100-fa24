@@ -77,21 +77,12 @@ knitr::include_graphics('https://worship.calvin.edu/contentAsset/image/c254ac2e-
 
 ---
 # Final Dialog (next Wed.)
-## Preferred time for your group?
+## Tentative Schedule (to confirm Monday)
 
-.pull-left[
-- **10:30 - 10:50** 
-- 10:50 - 11:10 
-- 11:10 - 11:30
-- 11:30 - 11:50 
-- 11:50 - 12:10
-]
 
-.small[
-.pull-right[
-- Will, Brooke, Ben, Annelise, Tanner
-- Alexis, Josh, Valeria, Lilroy
-- Olivia, Emma, Jimmy, Ronald
-- Kaylynn, Andy, Nicholas, Lily, Nathan
-- Ava, Leah, Dean, Jaden, Luke
-]]
+- **10:30 - 10:50**: Will, Brooke, Ben, Annelise, Tanner
+- 10:50 - 11:10: Ava, Leah, Dean, Jaden, Luke
+- 11:10 - 11:30: Alexis, Josh, Valeria, Lilroy
+- 11:30 - 11:50: Kaylyn, Andy, Nicholas, Lily, Nathan
+- 11:50 - 12:10: Olivia, Emma, Jimmy, Ronald
+
